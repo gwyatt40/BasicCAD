@@ -23,7 +23,7 @@
 
 ### Image
 
-<img src="images/Base.jpg" alt="The Base" width="200">
+<img src="Images/Base.png" alt="The Base" width="300">
 
 ### Reflection
 
@@ -49,6 +49,8 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Image
 
+<img src="Images/Mount.png" alt="The Mount" width="300">
+
 ### Reflection
 
 ---
@@ -63,6 +65,8 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 [The Fork in Onshape](https://cvilleschools.onshape.com/documents/39f4d60dddb5d6332b393c30/w/b41c95f4b285467259fc4dd6/e/2cc36e70205b8ae4474d659a)
 
 ### Image
+
+<img src="Images/Fork.png" alt="The Fork" width="300">
 
 ### Reflection
 
@@ -79,6 +83,8 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Image
 
+<img src="Images/Tire.png" alt="The Tire" width="300">
+
 ### Reflection
 
 ---
@@ -93,6 +99,8 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 [The Wheel in Onshape](https://cvilleschools.onshape.com/documents/39f4d60dddb5d6332b393c30/w/b41c95f4b285467259fc4dd6/e/851add4bbef13df560973810)
 
 ### Image
+
+<img src="Images/Wheel.png" alt="The Wheel" width="300">
 
 ### Reflection
 
@@ -112,6 +120,25 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 [The Wheel Bearing in OnShape](https://cvilleschools.onshape.com/documents/39f4d60dddb5d6332b393c30/w/b41c95f4b285467259fc4dd6/e/851add4bbef13df560973810)
 
 ### Image
+
+<img src="Images/Axle.png" alt="The Axle" width="300">
+  - The axle, independently
+
+<img src="Images/Collar.png" alt="The Collar" width="300">
+
+- The collar, independently
+
+<img src="Images/Axle & Collar.png" alt="Axle & Collar" width="300">
+
+- Axle and collar together
+
+<img src="Images/Big Bearing.png" alt="Big Bearing" width="300">
+
+- Big bearing, independently
+
+<img src="Images/Wheel, Tire, & Bearing.png" alt="Big Bearing with Wheel & Tire" width="300">
+
+- Big Bearing With Wheel & Tire
 
 ### Reflection
 
