@@ -192,3 +192,38 @@ Lessons Learned:
 
 
 [Link to final caster assembly in OnShape](https://cvilleschools.onshape.com/documents/39f4d60dddb5d6332b393c30/w/b41c95f4b285467259fc4dd6/e/d439bace84c2e1d9f3ead496)
+
+
+## Axle, Collar, & Bearings
+
+### Description
+
+This assignment involved creating an axle that would attach the wheel and fork, a collar that would attach the fork and axle, and large and small bearimgs that would space the sides of the wheel and fork, and the mount and face of the fork, respectively. 
+
+### Evidence
+
+[The Dowels in OnShape](https://cvilleschools.onshape.com/documents/160a7578f4d72d28b018ea36/w/c69abd63cbf5ba13873b9667/e/e588b96600f581436b146b2d)
+
+### Image
+
+Here are three examples of the 32 dowel configurations: 
+
+<img src="Images/Axle.png" alt="The Axle" width="300">
+  - 
+
+<img src="Images/Collar.png" alt="The Collar" width="300">
+
+- 
+
+<img src="Images/Axle & Collar.png" alt="Axle & Collar" width="300">
+
+- 
+
+
+### Reflection
+
+Lessons Learned:
+
+- Clicking "Use" allows you to add sketch entities from a different feature into a current sketch, which is very useful for both extrusion/creation and dimensioning. 
+- Originally, when I assembled the caster, the two large bearings on either side of the wheel were too large, and intercepted the fork. To quickly fix this I went back and cut their extrude depth in half, from 5 mm to 2.5 mm, which luckily allowed them to line up perfectly with the sides of the fork and the sides of the wheel. 
+- Switching the extrude direction of the hole in the collar so it was near the side of the axle with the flat made it easier to line these features up parallely when it came time to assemble. 
