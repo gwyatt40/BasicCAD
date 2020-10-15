@@ -198,7 +198,7 @@ Lessons Learned:
 
 ### Description
 
-This assignment was practice with configurations. We had to create 32 different configurations of a single dowel part with or without a chamfer and with changes in diameter and length. 
+This assignment was practice with configurations. We had to create 32 different configurations of a single dowel part with or without a chamfer and with changes in diameter (1/4, 3/8, 1/2, or 5/8 in) and length (1/2, 1, 1 1/2, or 2 in). 
 
 ### Evidence
 
@@ -209,17 +209,21 @@ This assignment was practice with configurations. We had to create 32 different 
 Here are three examples out of the 32 dowel configurations: 
 
 <img src="Images/Dowel12D1LYC.png" alt="1/2 inch diameter, 1 inch length, with a chamfer" width="300">
-  - 
+  
 
 <img src="Images/Dowel14DL2YC.png" alt="1/4 inch diameter, 2 inch length, with a chamfer" width="300">
 
-- 
 
 <img src="Images/Dowel38D112LNC.png" alt="3/8 inch diameter, 1 1/2 inch L, without a chamfer" width="300">
 
-- 
+
 
 
 ### Reflection
 
-
+Lessons Learned:
+- You can change the order of configurations in the configurations window by pressing the three corner dots and then "move down" or "move up".
+- You can also make the window larger by pulling down on the bottom so that all configurations are visible. 
+- The configuration dimensions require specific notation, i.e. improper fractions must be entered using two separate measurements connected by a plus sign (ex. 1 in + 1/2 in ), proper unit abbreviations must be used (ex. "in" instead of "inch". 
+- However, any text can be entered in the "Name" column of the configuration. 
+- Select measurements to configure their values and select features to suppress/unsupress them. 
