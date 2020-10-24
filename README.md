@@ -227,3 +227,26 @@ Lessons Learned:
 - The configuration dimensions require specific notation, i.e. improper fractions must be entered using two separate measurements connected by a plus sign (ex. 1 in + 1/2 in ), proper unit abbreviations must be used (ex. "in" instead of "inch"). 
 - However, any text can be entered in the "Name" column of the configuration. 
 - Select measurements to configure their values but select the features themselves to suppress/unsupress them. 
+
+## Hello Circuit Python 
+### Description
+
+This was an introduction to Circuit Python using an Arduino Metro. I used the Caret text editor and uploaded a code that caused a red light to glow on the Metro board. 
+
+### Evidence
+
+Code file
+
+### Image
+
+Image file
+
+
+### Reflection
+
+Lessons Learned:
+
+- In order to upload code to the Metro from Caret, you must first type it into the Caret platform, save it as a .py file, and then connect the board and drag the code file into the CIRCUITPY section of the files application. 
+- To edit the code while it is connected to the Arduino, open the file in Caret, edit it, and then press save with the new changes. 
+- "while True:" is basically the Circuit Python version of Void Loop. 
+- You must import information into the Circuit Python code in order for it to understand specific functions. (i.e. import board, import time, import neopixel) 
