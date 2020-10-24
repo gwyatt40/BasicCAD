@@ -141,6 +141,7 @@ Lessons Learned:
 - Also, dimension sketches in a logical order so that newly added dimensions do not cause them to become temporarily twisted or misshapen. 
 
 
+
 ---
 
 
@@ -251,3 +252,5 @@ Lessons Learned:
 - To edit the code while it is connected to the Arduino, open the file in Caret, edit it, and then press save with the new changes. 
 - "while True:" is basically the Circuit Python version of Void Loop. 
 - You must import information into the Circuit Python code in order for it to understand specific functions. (i.e. import board, import time, import neopixel) 
+- Eject Arduino from files (by clicking up arrow next to CIRCUIT PYTHON) before unplugging it. 
+- Helpful website I used to figure everything out: [Adafruit: Using Circuit Python on a Chromebook](https://learn.adafruit.com/using-circuit-playground-express-makecode-circuitpython-on-a-chromebook/caret-editor) 
