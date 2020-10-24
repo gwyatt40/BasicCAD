@@ -235,11 +235,11 @@ This was an introduction to Circuit Python using an Arduino Metro. I used the Ca
 
 ### Evidence
 
-Code file
+<file src="code.py" alt="Hello Circuit Python Code" width="300">
 
 ### Image
 
-<img src="Images/HelloCircuitPythonRedLight.png" alt="Hello Circuit Python Red Light" width="300">
+<img src="Images/IMG_6030.JPG" alt="Hello Circuit Python Red Light" width="300">
 
 
 ### Reflection
