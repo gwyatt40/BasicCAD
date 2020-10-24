@@ -235,15 +235,16 @@ This was an introduction to Circuit Python using an Arduino Metro. I used the Ca
 
 ### Evidence
 
-<file src="code.py" alt="Hello Circuit Python Code" width="300">
+[Hello Circuit Python Code](https://github.com/gwyatt40/BasicCAD/blob/master/Circuit%20Python%20Code/HelloCircuitPython.py)
+
 
 ### Image
 
-<img src="Images/IMG_6030.JPG" alt="Hello Circuit Python Red Light" width="300">
+<img src="Images/IMG_6030.JPG" alt="Hello Circuit Python Red Light" width="350" height="350">
 
 
 ### Reflection
-
+ 
 Lessons Learned:
 
 - In order to upload code to the Metro from Caret, you must first type it into the Caret platform, save it as a .py file, and then connect the board and drag the code file into the CIRCUITPY section of the files application. 
