@@ -239,7 +239,7 @@ Code file
 
 ### Image
 
-Image file
+<img src="Images/HelloCircuitPythonRedLight.png" alt="Hello Circuit Python Red Light" width="300">
 
 
 ### Reflection
